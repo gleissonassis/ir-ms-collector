@@ -1,0 +1,26 @@
+{
+  "name": "ir-ms-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleissonassis/ir-ms-collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gleissonassis/ir-ms-collector/issues"
+  },
+  "homepage": "https://github.com/gleissonassis/ir-ms-collector#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "decimal.js": "^10.2.0",
+    "moment": "^2.27.0",
+    "sleep-promise": "^8.0.1"
+  }
+}
